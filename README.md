@@ -43,7 +43,7 @@ After this the program will calculate the necessary moves and output to the term
 
 ## Repl Terminal
 
-You can also test the code on this [repl](https://repl.it/@ZamboniL1/knights_travail#README.md) without installing anything!
+You can also test the code on this [repl](https://repl.it/@ZamboniL1/knightstravails#README.md) without installing anything!
 
 # What I learned
 
